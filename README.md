@@ -1,11 +1,11 @@
 # Useful things found on the web
-Things I find and like to save while browsing the World Wide Web. :computer: :globe_with_meridians:
+Things I find and like to save while browsing the World Wide Web.
 
-# Github & Programming
-  * [https://github.com/sdmg15/Best-websites-a-programmer-should-visit](Best websites a programmer should visit)
+## Github & Programming
+  * [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
   
-# Hacker News 
-  * [http://speaking.io/](speaking.io) : Thoughts on public speaking by Zach Holman
+## Hacker News
+  * [Internet Trends 2017](http://www.kpcb.com/internet-trends) : Internet Trends 2017 - Code Conference, Mary Meeker
+  * [speaking.io](http://speaking.io/) : Thoughts on public speaking by Zach Holman
 
-# Sports
 
