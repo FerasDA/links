@@ -22,6 +22,7 @@ Just a list of things I find and like to save while browsing the World Wide Web.
  
 ## Interesting Reads
  * [Two days in an underwater cave running out of oxygen](http://www.bbc.com/news/magazine-40558067)
+ * [The days are long but the decades are short](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short) - Sam Altman
  
 ## Other
  * [Family Tree builder](https://www.plantafamilytree.com/)
