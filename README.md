@@ -12,6 +12,7 @@ Just a list of things I find and like to save while browsing the World Wide Web.
   
 ## Business
  * [Starting a Business](https://www.sos.state.oh.us/SOS/Businesses/BusinessInformation/starting.aspx) Checklist for starting a business in the state of Ohio
+ * [A checklist of marketing ideas for side projects](https://www.sideprojectchecklist.com/marketing-checklist/) 
 
 ## Science 
  * [Interactive map of the 2017 solar eclipse](https://eclipse2017.nasa.gov/sites/default/files/interactive_map/index.html)
