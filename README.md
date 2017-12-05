@@ -21,6 +21,7 @@ Just a list of things I find and like to save while browsing the World Wide Web.
 ## AI
  * [How to raise a moral robot](https://news.brown.edu/articles/2015/04/malle) - Prof. Bertram Malle
  * [Risks of Artificial Intelligence](https://thinkingwires.com/posts/2017-07-05-risks.html) - Johannes Heidecke
+ * [Here’s Why Scientists Think You Should be Worried about Artificial Intelligence](http://www.makeuseof.com/tag/heres-scientists-think-worried-artificial-intelligence/) - Andre Infante
  
 ## Interesting Reads
  * [Two days in an underwater cave running out of oxygen](http://www.bbc.com/news/magazine-40558067)
