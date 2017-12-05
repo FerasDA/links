@@ -23,6 +23,9 @@ Just a list of things I find and like to save while browsing the World Wide Web.
  * [Risks of Artificial Intelligence](https://thinkingwires.com/posts/2017-07-05-risks.html) - Johannes Heidecke
  * [Here’s Why Scientists Think You Should be Worried about Artificial Intelligence](http://www.makeuseof.com/tag/heres-scientists-think-worried-artificial-intelligence/) - Andre Infante
  
+ ## Fourth Industrial Revolution
+ * [Google’s AI guru, Ray Kurzweil, predicts humans and machines will merge within 20 years](https://thenextweb.com/artificial-intelligence/2017/11/10/googles-ai-guru-predicts-humans-and-machines-will-merge-within-20-years/) - Tristan Greene
+ 
 ## Interesting Reads
  * [Two days in an underwater cave running out of oxygen](http://www.bbc.com/news/magazine-40558067)
  * [The days are long but the decades are short](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short) - Sam Altman
