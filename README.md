@@ -3,6 +3,7 @@ Just a list of things I find and like to save while browsing the World Wide Web.
 
 ## Github & Programming
   * [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+  * [Oh, shit, git!](http://ohshitgit.com/)
   
 ## Hacker News
   * [Internet Trends 2017](http://www.kpcb.com/internet-trends) Internet Trends 2017 - Code Conference, Mary Meeker
