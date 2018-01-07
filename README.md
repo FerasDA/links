@@ -19,17 +19,17 @@ Just a list of things I find and like to save while browsing the World Wide Web.
  * [Accounting for Developers 101](https://docs.google.com/document/d/1HDLRa6vKpclO1JtxbGB5NeAYWf8cf1UMGy22o8OZZq4/preview)
  * [Accounting for Developers 102](https://docs.google.com/document/d/1qhtirHUzPu7Od7yX3A4kA424tjFCv5Kbi42xj49tKlw/edit)
 
-## Science 
- * [Interactive map of the 2017 solar eclipse](https://eclipse2017.nasa.gov/sites/default/files/interactive_map/index.html)
+## Fourth Industrial Revolution
+ * [Google’s AI guru, Ray Kurzweil, predicts humans and machines will merge within 20 years](https://thenextweb.com/artificial-intelligence/2017/11/10/googles-ai-guru-predicts-humans-and-machines-will-merge-within-20-years/) - Tristan Greene
 
 ## AI
  * [How to raise a moral robot](https://news.brown.edu/articles/2015/04/malle) - Prof. Bertram Malle
  * [Risks of Artificial Intelligence](https://thinkingwires.com/posts/2017-07-05-risks.html) - Johannes Heidecke
  * [Here’s Why Scientists Think You Should be Worried about Artificial Intelligence](http://www.makeuseof.com/tag/heres-scientists-think-worried-artificial-intelligence/) - Andre Infante
- 
- ## Fourth Industrial Revolution
- * [Google’s AI guru, Ray Kurzweil, predicts humans and machines will merge within 20 years](https://thenextweb.com/artificial-intelligence/2017/11/10/googles-ai-guru-predicts-humans-and-machines-will-merge-within-20-years/) - Tristan Greene
- 
+
+## Science 
+ * [Interactive map of the 2017 solar eclipse](https://eclipse2017.nasa.gov/sites/default/files/interactive_map/index.html)
+
 ## Interesting Reads
  * [Two days in an underwater cave running out of oxygen](http://www.bbc.com/news/magazine-40558067)
  * [The days are long but the decades are short](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short) - Sam Altman
