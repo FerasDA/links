@@ -6,6 +6,7 @@ Just a list of things I find and like to save while browsing the World Wide Web.
   * [Oh, shit, git!](http://ohshitgit.com/)
   * [Wat - A lightning talk by Gary Bernhardt from CodeMash 2012](https://www.destroyallsoftware.com/talks/wat)
   * [Software Development Explained With Cars](https://toggl.com/developer-methods-infographic)
+  * [Configure two routers to the same network](https://support.bluesound.com/hc/en-us/articles/204524383-Can-I-connect-two-routers-to-the-same-network-with-the-same-network-name-)
   
 ## Hacker News
   * [Internet Trends 2017](http://www.kpcb.com/internet-trends) Internet Trends 2017 - Code Conference, Mary Meeker
