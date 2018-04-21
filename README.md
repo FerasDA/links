@@ -9,6 +9,9 @@ Just a list of things I find and like to save while browsing the World Wide Web.
   * [Configure two routers to the same network](https://support.bluesound.com/hc/en-us/articles/204524383-Can-I-connect-two-routers-to-the-same-network-with-the-same-network-name-)
   * [The 12 Factor App](https://12factor.net)
   
+ ## APIs
+  * [Dad Joke API](https://icanhazdadjoke.com/api)
+  
 ## Hacker News
   * [Internet Trends 2017](http://www.kpcb.com/internet-trends) Internet Trends 2017 - Code Conference, Mary Meeker
   * [Thoughts on Flash (2010)](https://www.apple.com/hotnews/thoughts-on-flash/) Steve Jobs
@@ -43,9 +46,16 @@ Just a list of things I find and like to save while browsing the World Wide Web.
 ## Social Impact
  * [Columbus social ventures](http://socialventurescbus.com/marketplace/)
  
-## Other
- * [Family Tree builder](https://www.plantafamilytree.com/)
- * [Call My Congress](https://www.callmycongress.com/)
+## Data & Statistics 
+ * [Gapminder](https://www.gapminder.org/)
  * [Data USA](https://datausa.io/)
- * [Dad Joke API](https://icanhazdadjoke.com/api )
+ 
+## Politics
+ * [Call My Congress](https://www.callmycongress.com/)
+
+## Tools
+ * [Family Tree builder](https://www.plantafamilytree.com/)
+
+## Cleveland
  * [Cleveland Tech](https://github.com/mrfright/cleveland-tech)
+ 
