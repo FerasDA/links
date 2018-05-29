@@ -9,7 +9,7 @@ Just a list of things I find and like to save while browsing the World Wide Web.
   * [Configure two routers to the same network](https://support.bluesound.com/hc/en-us/articles/204524383-Can-I-connect-two-routers-to-the-same-network-with-the-same-network-name-)
   * [The 12 Factor App](https://12factor.net)
   
- ## APIs
+## APIs
   * [Dad Joke API](https://icanhazdadjoke.com/api)
   
 ## Hacker News
@@ -58,4 +58,5 @@ Just a list of things I find and like to save while browsing the World Wide Web.
 
 ## Cleveland
  * [Cleveland Tech](https://github.com/mrfright/cleveland-tech)
+ * [Cleveland is Hyper-Segragated](https://www.clevescene.com/scene-and-heard/archives/2018/05/10/new-data-map-reminds-us-cleveland-is-hyper-segregated)
  
