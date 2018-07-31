@@ -55,6 +55,7 @@ Just a list of things I find and like to save while browsing the World Wide Web.
 
 ## Tools
  * [Family Tree builder](https://www.plantafamilytree.com/)
+ * [Make a business model canvas in your browser](https://sbussard.github.io/canvas-sketch/)
 
 ## Cleveland
  * [Cleveland Tech](https://github.com/mrfright/cleveland-tech)
