@@ -35,6 +35,7 @@ Just a list of things I find and like to save while browsing the World Wide Web.
  * [How to raise a moral robot](https://news.brown.edu/articles/2015/04/malle) - Prof. Bertram Malle
  * [Risks of Artificial Intelligence](https://thinkingwires.com/posts/2017-07-05-risks.html) - Johannes Heidecke
  * [Here’s Why Scientists Think You Should be Worried about Artificial Intelligence](http://www.makeuseof.com/tag/heres-scientists-think-worried-artificial-intelligence/) - Andre Infante
+ * [What if ET is an AI?](https://aeon.co/essays/first-contact-what-if-we-find-not-organic-life-but-ets-ai)
 
 ## Science 
  * [Interactive map of the 2017 solar eclipse](https://eclipse2017.nasa.gov/sites/default/files/interactive_map/index.html)
