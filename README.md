@@ -14,12 +14,14 @@ Just a list of things I find and like to save while browsing the World Wide Web.
   
 ## APIs
   * [Dad Joke API](https://icanhazdadjoke.com/api)
+  * [Trivia API](https://opentdb.com/api_config.php)
   
 ## Hacker News
   * [Internet Trends 2017](http://www.kpcb.com/internet-trends) Internet Trends 2017 - Code Conference, Mary Meeker
   * [Thoughts on Flash (2010)](https://www.apple.com/hotnews/thoughts-on-flash/) Steve Jobs
   * [Passwords Evolved: Authentication Guidance for the Modern Era](https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/)
   * [FaceID, TouchID, pins, no pins](https://www.troyhunt.com/face-id-touch-id-pins-no-id-and-pragmatic-security/) - Troy Hunt
+  * [2018 Golden Kitty Awards](https://www.producthunt.com/golden-kitty-awards-2018) - Product Hunt
   
 ## Public Speaking
   * [speaking.io](http://speaking.io/) Thoughts on public speaking by Zach Holman
