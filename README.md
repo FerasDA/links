@@ -63,6 +63,7 @@ Just a list of things I find and like to save while browsing the World Wide Web.
  * [Family Tree builder](https://www.plantafamilytree.com/)
  * [Make a business model canvas in your browser](https://sbussard.github.io/canvas-sketch/)
  * [Whiteboard](https://witeboard.com/)
+ * [Live Word Cloud](http://answergarden.ch)
 
 ## Cleveland
  * [Cleveland Tech](https://github.com/mrfright/cleveland-tech)
