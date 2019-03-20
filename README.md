@@ -64,6 +64,7 @@ Just a list of things I find and like to save while browsing the World Wide Web.
  * [Make a business model canvas in your browser](https://sbussard.github.io/canvas-sketch/)
  * [Whiteboard](https://witeboard.com/)
  * [Live Word Cloud](http://answergarden.ch)
+ * [Resume builder](https://resumake.io/)
 
 ## Cleveland
  * [Cleveland Tech](https://github.com/mrfright/cleveland-tech)
