@@ -65,6 +65,7 @@ Just a list of things I find and like to save while browsing the World Wide Web.
  * [Whiteboard](https://witeboard.com/)
  * [Live Word Cloud](http://answergarden.ch)
  * [Resume builder](https://resumake.io/)
+ * [Google Maps Styler](https://mapstyle.withgoogle.com/)
 
 ## Cleveland
  * [Cleveland Tech](https://github.com/mrfright/cleveland-tech)
