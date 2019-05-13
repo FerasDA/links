@@ -8,6 +8,7 @@ Just a list of things I find and like to save while browsing the World Wide Web.
   * [Software Development Explained With Cars](https://toggl.com/developer-methods-infographic)
   * [Configure two routers to the same network](https://support.bluesound.com/hc/en-us/articles/204524383-Can-I-connect-two-routers-to-the-same-network-with-the-same-network-name-)
   * [The 12 Factor App](https://12factor.net)
+  * [Book: Web API Design: The Missing Link](https://pages.apigee.com/rs/351-WXY-166/images/Web-design-the-missing-link-ebook-2016-11.pdf)
   
 ## Design
   * [picular.co - Google for colors](https://picular.co)  
