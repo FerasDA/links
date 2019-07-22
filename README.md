@@ -28,11 +28,12 @@ Just a list of things I find and like to save while browsing the World Wide Web.
   * [speaking.io](http://speaking.io/) Thoughts on public speaking by Zach Holman
   * [Show and Tell](https://www.youtube.com/watch?v=1o5gUxV3pG0) - Dan Roam
   
-## Business
+## Business & Startup
  * [Starting a Business](https://www.sos.state.oh.us/SOS/Businesses/BusinessInformation/starting.aspx) Checklist for starting a business in the state of Ohio
  * [A checklist of marketing ideas for side projects](https://www.sideprojectchecklist.com/marketing-checklist/) 
  * [Accounting for Developers 101](https://docs.google.com/document/d/1HDLRa6vKpclO1JtxbGB5NeAYWf8cf1UMGy22o8OZZq4/preview)
  * [Accounting for Developers 102](https://docs.google.com/document/d/1qhtirHUzPu7Od7yX3A4kA424tjFCv5Kbi42xj49tKlw/edit)
+ * [Startup School by YC](https://www.startupschool.org/)
 
 ## Fourth Industrial Revolution
  * [Google’s AI guru, Ray Kurzweil, predicts humans and machines will merge within 20 years](https://thenextweb.com/artificial-intelligence/2017/11/10/googles-ai-guru-predicts-humans-and-machines-will-merge-within-20-years/) - Tristan Greene
