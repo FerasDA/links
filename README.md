@@ -10,6 +10,7 @@ Just a list of things I find and like to save while browsing the World Wide Web.
   * [The 12 Factor App](https://12factor.net)
   * [Book: Web API Design: The Missing Link](https://pages.apigee.com/rs/351-WXY-166/images/Web-design-the-missing-link-ebook-2016-11.pdf)
  * [How to do a code review - Google](https://google.github.io/eng-practices/review/reviewer/)
+ * [Developer's guide to SEO](https://www.portent.com/blog/seo/developers-seo-guide.htm)
   
 ## Design
   * [picular.co - Google for colors](https://picular.co)  
