@@ -14,6 +14,7 @@ Just a list of things I find and like to save while browsing the World Wide Web.
   
 ## Design
   * [picular.co - Google for colors](https://picular.co)  
+  * [unDraw - Open-source illustrations](http://undraw.co)
   
 ## APIs
   * [Dad Joke API](https://icanhazdadjoke.com/api)
@@ -70,6 +71,7 @@ Just a list of things I find and like to save while browsing the World Wide Web.
  * [Live Word Cloud](http://answergarden.ch)
  * [Resume builder](https://resumake.io/)
  * [Google Maps Styler](https://mapstyle.withgoogle.com/)
+ * [Draw.io - Online Diagraming Website](https://draw.io)
 
 ## Cleveland
  * [Cleveland Tech](https://github.com/mrfright/cleveland-tech)
