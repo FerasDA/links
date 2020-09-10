@@ -15,6 +15,7 @@ Just a list of things I find and like to save while browsing the World Wide Web.
 ## Design
   * [picular.co - Google for colors](https://picular.co)  
   * [unDraw - Open-source illustrations](http://undraw.co)
+  * [Web design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
   
 ## APIs
   * [Dad Joke API](https://icanhazdadjoke.com/api)
