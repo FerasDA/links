@@ -7,11 +7,14 @@ Just a list of things I find and like to save while browsing the World Wide Web.
   * [Wat - A lightning talk by Gary Bernhardt from CodeMash 2012](https://www.destroyallsoftware.com/talks/wat)
   * [Software Development Explained With Cars](https://toggl.com/developer-methods-infographic)
   * [Configure two routers to the same network](https://support.bluesound.com/hc/en-us/articles/204524383-Can-I-connect-two-routers-to-the-same-network-with-the-same-network-name-)
-  * [The 12 Factor App](https://12factor.net)
-  * [Book: Web API Design: The Missing Link](https://pages.apigee.com/rs/351-WXY-166/images/Web-design-the-missing-link-ebook-2016-11.pdf)
+ * [The 12 Factor App](https://12factor.net)
+ * [Book: Web API Design: The Missing Link](https://pages.apigee.com/rs/351-WXY-166/images/Web-design-the-missing-link-ebook-2016-11.pdf)
  * [How to do a code review - Google](https://google.github.io/eng-practices/review/reviewer/)
  * [Developer's guide to SEO](https://www.portent.com/blog/seo/developers-seo-guide.htm)
   
+## Product 
+ * [#NoEstimates (Allen Holub)](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
+ 
 ## Design
   * [picular.co - Google for colors](https://picular.co)  
   * [unDraw - Open-source illustrations](http://undraw.co)
