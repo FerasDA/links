@@ -84,5 +84,6 @@ Just a list of things I find and like to save while browsing the World Wide Web.
 
 ## Ted Talks
  * [Why city flags may be the worst-designed thing you've never noticed – Roman Mars](https://www.youtube.com/watch?v=pnv5iKB2hl4)
+ * 
  
  
