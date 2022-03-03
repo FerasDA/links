@@ -83,5 +83,6 @@ Just a list of things I find and like to save while browsing the World Wide Web.
  * [Cleveland is Hyper-Segragated](https://www.clevescene.com/scene-and-heard/archives/2018/05/10/new-data-map-reminds-us-cleveland-is-hyper-segregated)
 
 ## Ted Talks
- * [Why city flags may be the worst-designed thing you've never noticed | Roman Mars](https://www.youtube.com/watch?v=pnv5iKB2hl4)
+ * [Why city flags may be the worst-designed thing you've never noticed – Roman Mars](https://www.youtube.com/watch?v=pnv5iKB2hl4)
+ 
  
