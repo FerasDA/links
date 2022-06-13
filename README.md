@@ -30,6 +30,9 @@ Just a list of things I find and like to save while browsing the World Wide Web.
   * [Passwords Evolved: Authentication Guidance for the Modern Era](https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/)
   * [FaceID, TouchID, pins, no pins](https://www.troyhunt.com/face-id-touch-id-pins-no-id-and-pragmatic-security/) - Troy Hunt
   * [2018 Golden Kitty Awards](https://www.producthunt.com/golden-kitty-awards-2018) - Product Hunt
+
+## Leadership
+  * [Servant leadership: why being a servant leader is worth the work](https://nesslabs.com/servant-leadership) 
   
 ## Public Speaking
   * [speaking.io](http://speaking.io/) Thoughts on public speaking by Zach Holman
