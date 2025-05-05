@@ -3,18 +3,18 @@ Just a list of things I find and like to save while browsing the World Wide Web.
 
 ### Agile & Project Management
 
-- [Jeff Gothelf: Outcome-Based Product Planning — Hands-on Agile 43](https://www.notion.so/10-mind-blowing-AI-websites-you-probably-didn-t-know-existed-8d7e88a9c2cc41989fd060f106ad32f4?pvs=21)
+- [Jeff Gothelf: Outcome-Based Product Planning — Hands-on Agile 43](https://www.youtube.com/watch?v=Ee8R2RGDjvA)
 - [#NoEstimates … #NoSprints](https://medium.com/codex/noestimates-and-noiterations-2b5df43d8c34)
 - [Story Points Revisited](https://ronjeffries.com/articles/019-01ff/story-points/Index.html)
 - [Twelve](https://ronjeffries.com/articles/019-01ff/twelve/)
 
 ### AI
 
-- [10 mind-blowing AI websites you probably didn't know existed](https://www.notion.so/10-mind-blowing-AI-websites-you-probably-didn-t-know-existed-8d7e88a9c2cc41989fd060f106ad32f4?pvs=21)
 - [Here’s Why Scientists Think You Should be Worried about Artificial Intelligence](http://www.makeuseof.com/tag/heres-scientists-think-worried-artificial-intelligence/) - Andre Infante
 - [How to raise a moral robot](https://news.brown.edu/articles/2015/04/malle) - Prof. Bertram Malle
 - [Risks of Artificial Intelligence](https://thinkingwires.com/posts/2017-07-05-risks.html) - Johannes Heidecke
 - [What if ET is an AI?](https://aeon.co/essays/first-contact-what-if-we-find-not-organic-life-but-ets-ai)
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI?tab=readme-ov-file) - **stable diffusion GUI and backend**
 
 ### APIs
 
@@ -58,7 +58,7 @@ Just a list of things I find and like to save while browsing the World Wide Web.
 
 ### Fun
 
-- [Listen to Wikipedia Being updated](http://listen.hatnote.com/)
+- [Listen to Wikipedia being updated](http://listen.hatnote.com/)
 - [Play Wordle over SSH](https://github.com/ajeetdsouza/clidle)
 
 ### Hacker News
@@ -71,8 +71,8 @@ Just a list of things I find and like to save while browsing the World Wide Web.
 
 ### Interesting Reads
 
-- [17 Equations that changed the world](https://www.notion.so/17-Equations-that-changed-the-world-c7e2ec2eae8d4c6899c08cf26aa68217?pvs=21)
-- [No Hello](https://www.notion.so/No-Hello-c2023fbdfcc848869fd0f0ea27954e17?pvs=21)
+- [17 Equations that changed the world](https://www.notion.so/c7e2ec2eae8d4c6899c08cf26aa68217?pvs=21)
+- [No Hello](https://nohello.net/en/)
 - [The days are long but the decades are short](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short) - Sam Altman
 - [The Ovarian Lottery — A Thought Experiment from Warren Buffett](https://www.sloww.co/ovarian-lottery/)
 - [Two days in an underwater cave running out of oxygen](http://www.bbc.com/news/magazine-40558067)
@@ -87,7 +87,7 @@ Just a list of things I find and like to save while browsing the World Wide Web.
 
 ### Music & Learning
 
-- [muted.io – A magical collection of interactive music theory tools & visual references to learn music online for free](https://www.notion.so/muted-io-A-magical-collection-of-interactive-music-theory-tools-visual-references-to-learn-music-218398354a4a4e008b9b9dad27ed1b25?pvs=21)
+- [muted.io – A magical collection of interactive music theory tools & visual references to learn music online for free](https://muted.io/)
 
 ### Politics
 
@@ -119,10 +119,6 @@ Just a list of things I find and like to save while browsing the World Wide Web.
 - [Show and Tell](https://www.youtube.com/watch?v=1o5gUxV3pG0) - Dan Roam
 - [speaking.io](http://speaking.io/) - Thoughts on public speaking by Zach Holman
 
-### Reading List
-
-- [Reading List](https://www.notion.so/Reading-List-2710ea18ffa740e6bb753f39e16c5c63?pvs=21)
-
 ### React
 
 - [Data Fetching in Single Page Applications](https://martinfowler.com/articles/data-fetch-spa.html)
@@ -140,4 +136,3 @@ Just a list of things I find and like to save while browsing the World Wide Web.
 
 - [Why city flags may be the worst-designed thing you’ve never noticed – Roman Mars](https://www.youtube.com/watch?v=pnv5iKB2hl4)
 - [Why incompetent people think they're amazing – David Dunning](https://www.youtube.com/watch?v=pOLmD_WVY-E)
- 
