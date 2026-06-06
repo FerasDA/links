@@ -8,6 +8,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "validate": "python3 scripts/validate_links.py",
+    "addlink": "python3 scripts/add_link.py",
     "test": "python3 -m unittest discover -s tests -v"
   },
   "dependencies": {
