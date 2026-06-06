@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.astro/
+.hermes/
+__pycache__/
+*.py[cod]
+.DS_Store

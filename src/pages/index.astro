@@ -1,0 +1,125 @@
+---
+import links from '../../data/links.json';
+
+const sortedLinks = [...links].sort((a, b) => a.title.localeCompare(b.title));
+const categories = [...new Set(sortedLinks.map((link) => link.category))].sort();
+const tags = [...new Set(sortedLinks.flatMap((link) => link.tags))].sort();
+const linksByCategory = categories.map((category) => ({
+  category,
+  links: sortedLinks.filter((link) => link.category === category),
+}));
+const baseUrl = import.meta.env.BASE_URL;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="A personal library of useful articles, tools, talks, APIs, and other things found around the web." />
+    <title>Links</title>
+    <link rel="stylesheet" href={`${baseUrl}/styles.css`} />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="hero">
+        <h1>Interesting things found on the web</h1>
+        <p>
+          Just a list of things I find and like to save while browsing the World Wide Web.
+        </p>
+      </header>
+
+      <section class="controls" aria-label="Filter links">
+        <input id="search" type="search" placeholder="Search links…" autocomplete="off" aria-label="Search links" />
+
+        <div class="filter-row">
+          <label>
+            Category
+            <select id="category-filter">
+              <option value="">All categories</option>
+              {categories.map((category) => <option value={category}>{category}</option>)}
+            </select>
+          </label>
+
+          <label>
+            Tag
+            <select id="tag-filter">
+              <option value="">All tags</option>
+              {tags.map((tag) => <option value={tag}>{tag}</option>)}
+            </select>
+          </label>
+        </div>
+      </section>
+
+      <p id="result-count" class="result-count">Showing {sortedLinks.length} links</p>
+
+      <section class="link-list" aria-label="Saved links">
+        {linksByCategory.map(({ category, links }) => (
+          <section class="category-section" data-category-section={category}>
+            <h2>{category}</h2>
+            <ul>
+              {links.map((link) => (
+                <li
+                  class="link-item"
+                  data-title={link.title.toLowerCase()}
+                  data-url={link.url.toLowerCase()}
+                  data-description={link.description.toLowerCase()}
+                  data-category={link.category}
+                  data-tags={link.tags.join(' ')}
+                >
+                  <a href={link.url} target="_blank" rel="noopener noreferrer">{link.title}</a>
+                  {link.description && <span> — {link.description}</span>}
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))}
+      </section>
+    </main>
+
+    <script>
+      const searchInput = document.querySelector('#search');
+      const categoryFilter = document.querySelector('#category-filter');
+      const tagFilter = document.querySelector('#tag-filter');
+      const resultCount = document.querySelector('#result-count');
+      const items = Array.from(document.querySelectorAll('.link-item'));
+      const sections = Array.from(document.querySelectorAll('.category-section'));
+
+      function matches(item) {
+        const query = searchInput.value.trim().toLowerCase();
+        const category = categoryFilter.value;
+        const tag = tagFilter.value;
+        const searchable = [
+          item.dataset.title,
+          item.dataset.url,
+          item.dataset.description,
+          item.dataset.category?.toLowerCase(),
+          item.dataset.tags,
+        ].join(' ');
+
+        return (!query || searchable.includes(query))
+          && (!category || item.dataset.category === category)
+          && (!tag || item.dataset.tags.split(' ').includes(tag));
+      }
+
+      function applyFilters() {
+        let visible = 0;
+        for (const item of items) {
+          const show = matches(item);
+          item.hidden = !show;
+          if (show) visible += 1;
+        }
+
+        for (const section of sections) {
+          const visibleItems = section.querySelectorAll('.link-item:not([hidden])').length;
+          section.hidden = visibleItems === 0;
+        }
+
+        resultCount.textContent = `Showing ${visible} ${visible === 1 ? 'link' : 'links'}`;
+      }
+
+      searchInput.addEventListener('input', applyFilters);
+      categoryFilter.addEventListener('change', applyFilters);
+      tagFilter.addEventListener('change', applyFilters);
+    </script>
+  </body>
+</html>
