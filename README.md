@@ -38,6 +38,35 @@ npm run dev
 
 Then open the local URL Astro prints, usually `http://localhost:4321`.
 
+## Adding links
+
+The local add-link helper is the building block for the Hermes `/addlink` workflow. It adds one structured entry to `data/links.json`, rejects duplicate normalized URLs, and leaves new links with `status: "unchecked"` so the checker can verify them later.
+
+Example:
+
+```bash
+npm run addlink -- "https://example.com/article" \
+  --title "Example Article" \
+  --description "A short useful description of the link." \
+  --category "Interesting Reads" \
+  --tags "interesting-reads,example" \
+  --type article
+```
+
+Useful options:
+
+- omit `--title` / `--description` to let the helper try page metadata first
+- pass `--no-fetch` to skip network metadata lookup
+- pass `--dry-run` to validate without writing
+
+A Hermes-assisted add should:
+
+1. Create a branch.
+2. Fetch/enrich the URL metadata and choose category, tags, type, and description.
+3. Run `npm run addlink -- <url> ...`.
+4. Run `npm run validate`, `npm test`, and `npm run build`.
+5. Commit, push, and open a PR for review.
+
 ## Link data structure
 
 Each link has structured metadata:
