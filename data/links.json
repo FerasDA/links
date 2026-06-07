@@ -808,5 +808,19 @@
     "type": "video",
     "added": "2026-06-06",
     "status": "unchecked"
+  },
+  {
+    "title": "Example Domain",
+    "url": "https://example.com/some-link",
+    "description": "Reserved placeholder domain for documentation examples; note: optional note here.",
+    "category": "Interesting Reads",
+    "tags": [
+      "interesting-reads",
+      "documentation",
+      "example-domain"
+    ],
+    "type": "document",
+    "added": "2026-06-07",
+    "status": "unchecked"
   }
 ]
