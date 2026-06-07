@@ -67,6 +67,20 @@ A Hermes-assisted add should:
 4. Run `npm run validate`, `npm test`, and `npm run build`.
 5. Commit, push, and open a PR for review.
 
+## Normalizing taxonomy
+
+The normalize helper keeps category tags consistent and trims simple text whitespace:
+
+```bash
+npm run normalize
+```
+
+Use `--dry-run` to preview how many links would change without writing:
+
+```bash
+npm run normalize -- --dry-run
+```
+
 ## Checking links
 
 The link checker updates reviewable status metadata for existing links:

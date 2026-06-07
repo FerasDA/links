@@ -10,6 +10,7 @@
     "validate": "python3 scripts/validate_links.py",
     "addlink": "python3 scripts/add_link.py",
     "checklinks": "python3 scripts/check_links.py",
+    "normalize": "python3 scripts/normalize_links.py",
     "test": "python3 -m unittest discover -s tests -v"
   },
   "dependencies": {
