@@ -808,5 +808,21 @@
     "type": "video",
     "added": "2026-06-06",
     "status": "unchecked"
+  },
+  {
+    "title": "pASSWORD tYPOS and How to Correct Them Securely",
+    "url": "https://www.cs.cornell.edu/~rahul/papers/pwtypos.pdf",
+    "description": "Research on safely correcting common password typos without weakening online guessing security.",
+    "category": "Engineering & Programming",
+    "tags": [
+      "security",
+      "passwords",
+      "usable-security",
+      "research",
+      "pdf"
+    ],
+    "type": "document",
+    "added": "2026-06-07",
+    "status": "unchecked"
   }
 ]
