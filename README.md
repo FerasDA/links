@@ -67,6 +67,29 @@ A Hermes-assisted add should:
 4. Run `npm run validate`, `npm test`, and `npm run build`.
 5. Commit, push, and open a PR for review.
 
+## Checking links
+
+The link checker updates reviewable status metadata for existing links:
+
+```bash
+npm run checklinks
+```
+
+Useful options:
+
+- pass `--dry-run` to report results without writing
+- pass `--limit N` to check only the first N links while testing
+- pass `--timeout 15` to adjust the per-link request timeout
+
+The scheduled GitHub Action runs weekly and opens a PR if `data/links.json` changes. It updates fields such as:
+
+- `status`: `ok`, `redirected`, `broken`, or `unknown`
+- `last_checked`
+- `redirect_url` for redirects
+- `check_error` for broken or unknown checks
+
+The checker never deletes links automatically.
+
 ## Link data structure
 
 Each link has structured metadata:
