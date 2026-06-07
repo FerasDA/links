@@ -59,13 +59,18 @@ Useful options:
 - pass `--no-fetch` to skip network metadata lookup
 - pass `--dry-run` to validate without writing
 
-A Hermes-assisted add should:
+A Hermes-assisted add should enrich the URL metadata and then use the PR helper:
 
-1. Create a branch.
-2. Fetch/enrich the URL metadata and choose category, tags, type, and description.
-3. Run `npm run addlink -- <url> ...`.
-4. Run `npm run validate`, `npm test`, and `npm run build`.
-5. Commit, push, and open a PR for review.
+```bash
+npm run addlink-pr -- "https://example.com/article" \
+  --title "Example Article" \
+  --description "A short useful description of the link." \
+  --category "Interesting Reads" \
+  --tags "interesting-reads,example" \
+  --type article
+```
+
+The PR helper creates a branch, runs `npm run addlink`, validates/tests/builds the site, commits `data/links.json`, pushes the branch, and opens a GitHub PR. Pass `--dry-run` to print the command plan without executing it.
 
 ## Checking links
 
@@ -107,6 +112,5 @@ Each link has structured metadata:
 
 The next phases are:
 
-1. Add a Hermes-powered `/addlink` workflow so I can send a link from Slack/email, have Hermes enrich it with category/tags/description, and open a PR.
-2. Add a weekly broken-link checker that updates link status and opens a PR for review.
-3. Continue refining categories, tags, and descriptions as the library grows.
+1. Continue refining categories, tags, and descriptions as the library grows.
+2. Optionally connect the add-link PR helper to a dedicated Hermes gateway command once the preferred Slack/email surface is chosen.
