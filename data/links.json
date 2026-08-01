@@ -824,5 +824,20 @@
     "type": "document",
     "added": "2026-06-07",
     "status": "unchecked"
+  },
+  {
+    "title": "Every formula in the script, and when you'd actually reach for it.",
+    "url": "https://claude.ai/code/artifact/8f63b1a6-657d-4bd0-8968-41024b98c1b1",
+    "description": "Reference for formulas used in a machine setup/tools script and when to use each one.",
+    "category": "Development Tools",
+    "tags": [
+      "development-tools",
+      "machine-setup",
+      "tools",
+      "scripting"
+    ],
+    "type": "document",
+    "added": "2026-08-01",
+    "status": "unchecked"
   }
 ]
