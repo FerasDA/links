@@ -2,7 +2,7 @@
   {
     "title": "Jeff Gothelf: Outcome-Based Product Planning — Hands-on Agile 43",
     "url": "https://www.youtube.com/watch?v=Ee8R2RGDjvA",
-    "description": "Saved web link in the Product & Agile category.",
+    "description": "Jeff Gothelf explains how outcome-based planning keeps product teams focused on measurable customer and business results.",
     "category": "Product & Agile",
     "tags": [
       "product-agile",
@@ -15,7 +15,7 @@
   {
     "title": "#NoEstimates … #NoSprints",
     "url": "https://medium.com/codex/noestimates-and-noiterations-2b5df43d8c34",
-    "description": "Saved web link in the Product & Agile category.",
+    "description": "Essay arguing for lightweight forecasting and flow over story-point estimates and fixed sprint iterations.",
     "category": "Product & Agile",
     "tags": [
       "product-agile"
@@ -27,7 +27,7 @@
   {
     "title": "Story Points Revisited",
     "url": "https://ronjeffries.com/articles/019-01ff/story-points/Index.html",
-    "description": "Saved web link in the Product & Agile category.",
+    "description": "Ron Jeffries revisits story points, their original intent, and how teams often misuse them.",
     "category": "Product & Agile",
     "tags": [
       "product-agile"
@@ -39,7 +39,7 @@
   {
     "title": "Twelve",
     "url": "https://ronjeffries.com/articles/019-01ff/twelve/",
-    "description": "Saved web link in the Product & Agile category.",
+    "description": "Ron Jeffries reflects on twelve Agile ideas and practices from a long-running software development perspective.",
     "category": "Product & Agile",
     "tags": [
       "product-agile"
@@ -87,7 +87,7 @@
   {
     "title": "What if ET is an AI?",
     "url": "https://aeon.co/essays/first-contact-what-if-we-find-not-organic-life-but-ets-ai",
-    "description": "Saved web link in the AI category.",
+    "description": "Aeon essay exploring whether first contact with extraterrestrial intelligence might be with artificial, not biological, life.",
     "category": "AI",
     "tags": [
       "ai"
@@ -113,7 +113,7 @@
   {
     "title": "Dad Joke API",
     "url": "https://icanhazdadjoke.com/api",
-    "description": "Saved web link in the APIs category.",
+    "description": "Simple HTTP API for retrieving random or searchable dad jokes in JSON, text, or HTML formats.",
     "category": "APIs",
     "tags": [
       "api"
@@ -125,7 +125,7 @@
   {
     "title": "Trivia API",
     "url": "https://opentdb.com/api_config.php",
-    "description": "Saved web link in the APIs category.",
+    "description": "Configuration page for the Open Trivia Database API, which serves customizable trivia questions.",
     "category": "APIs",
     "tags": [
       "api"
@@ -137,7 +137,7 @@
   {
     "title": "A checklist of marketing ideas for side projects",
     "url": "https://www.sideprojectchecklist.com/marketing-checklist/",
-    "description": "Saved web link in the Business & Startups category.",
+    "description": "Checklist of practical marketing tasks and channels for launching and growing side projects.",
     "category": "Business & Startups",
     "tags": [
       "business-startups"
@@ -149,7 +149,7 @@
   {
     "title": "Accounting for Developers 101",
     "url": "https://docs.google.com/document/d/1HDLRa6vKpclO1JtxbGB5NeAYWf8cf1UMGy22o8OZZq4/preview",
-    "description": "Saved web link in the Business & Startups category.",
+    "description": "Introductory accounting guide aimed at developers and technical founders learning business basics.",
     "category": "Business & Startups",
     "tags": [
       "business-startups"
@@ -161,7 +161,7 @@
   {
     "title": "Accounting for Developers 102",
     "url": "https://docs.google.com/document/d/1qhtirHUzPu7Od7yX3A4kA424tjFCv5Kbi42xj49tKlw/edit",
-    "description": "Saved web link in the Business & Startups category.",
+    "description": "Follow-up accounting guide for developers covering additional finance and bookkeeping concepts.",
     "category": "Business & Startups",
     "tags": [
       "business-startups"
@@ -185,7 +185,7 @@
   {
     "title": "Startup School by YC",
     "url": "https://www.startupschool.org/",
-    "description": "Saved web link in the Business & Startups category.",
+    "description": "Y Combinator’s free startup curriculum, community, and resources for founders building companies.",
     "category": "Business & Startups",
     "tags": [
       "business-startups"
@@ -197,7 +197,7 @@
   {
     "title": "Cleveland is Hyper-Segregated",
     "url": "https://www.clevescene.com/scene-and-heard/archives/2018/05/10/new-data-map-reminds-us-cleveland-is-hyper-segregated",
-    "description": "Saved web link in the Local / Cleveland category.",
+    "description": "Cleveland Scene article highlighting mapping data that shows persistent racial and neighborhood segregation in Cleveland.",
     "category": "Local / Cleveland",
     "tags": [
       "cleveland"
@@ -209,7 +209,7 @@
   {
     "title": "Cleveland Tech",
     "url": "https://github.com/mrfright/cleveland-tech",
-    "description": "Saved web link in the Local / Cleveland category.",
+    "description": "GitHub repository curating Cleveland-area technology companies, groups, events, and community resources.",
     "category": "Local / Cleveland",
     "tags": [
       "cleveland",
@@ -223,7 +223,7 @@
   {
     "title": "Data USA",
     "url": "https://datausa.io/",
-    "description": "Saved web link in the Data & Statistics category.",
+    "description": "Data visualization platform for exploring U.S. public data about places, industries, occupations, and education.",
     "category": "Data & Statistics",
     "tags": [
       "data-statistics"
@@ -235,7 +235,7 @@
   {
     "title": "Gapminder",
     "url": "https://www.gapminder.org/",
-    "description": "Saved web link in the Data & Statistics category.",
+    "description": "Gapminder provides data, charts, and teaching tools for understanding global development trends.",
     "category": "Data & Statistics",
     "tags": [
       "data-statistics"
@@ -247,7 +247,7 @@
   {
     "title": "picular.co - Google for colors",
     "url": "https://picular.co/",
-    "description": "Saved web link in the Design category.",
+    "description": "Color search engine that generates palettes from Google image results for a word or concept.",
     "category": "Design",
     "tags": [
       "design"
@@ -259,7 +259,7 @@
   {
     "title": "unDraw - Open-source illustrations",
     "url": "http://undraw.co/",
-    "description": "Saved web link in the Design category.",
+    "description": "Open-source illustration library with customizable SVG artwork for websites, apps, and presentations.",
     "category": "Design",
     "tags": [
       "design"
@@ -271,7 +271,7 @@
   {
     "title": "Web design in 4 minutes",
     "url": "https://jgthms.com/web-design-in-4-minutes/",
-    "description": "Saved web link in the Design category.",
+    "description": "Quick interactive tutorial showing how a few CSS changes can improve a plain web page.",
     "category": "Design",
     "tags": [
       "design"
@@ -283,7 +283,7 @@
   {
     "title": "Authentication Platform",
     "url": "https://stytch.com/",
-    "description": "Saved web link in the Development Tools category.",
+    "description": "Authentication platform offering APIs and SDKs for passwords, passkeys, OAuth, MFA, and session management.",
     "category": "Development Tools",
     "tags": [
       "development-tools"
@@ -295,7 +295,7 @@
   {
     "title": "CSE Code-With Engineering Playbook",
     "url": "https://microsoft.github.io/code-with-engineering-playbook/",
-    "description": "Saved web link in the Development Tools category.",
+    "description": "Microsoft playbook of engineering practices, collaboration patterns, and delivery guidance for software teams.",
     "category": "Development Tools",
     "tags": [
       "development-tools"
@@ -307,7 +307,7 @@
   {
     "title": "Make Bullshit Generator",
     "url": "https://www.makebullshit.com/",
-    "description": "Saved web link in the Development Tools category.",
+    "description": "Generator for satirical startup, product, and corporate jargon phrases.",
     "category": "Development Tools",
     "tags": [
       "development-tools"
@@ -319,7 +319,7 @@
   {
     "title": "Typescript Error Reference",
     "url": "https://typescript.tv/errors/",
-    "description": "Saved web link in the Development Tools category.",
+    "description": "Reference site explaining TypeScript compiler errors with examples and practical fixes.",
     "category": "Development Tools",
     "tags": [
       "development-tools"
@@ -344,7 +344,7 @@
   {
     "title": "Listen to Wikipedia being updated",
     "url": "http://listen.hatnote.com/",
-    "description": "Saved web link in the Fun category.",
+    "description": "Ambient visualization that turns live Wikipedia edits into sounds and animated bubbles.",
     "category": "Fun",
     "tags": [
       "fun"
@@ -356,7 +356,7 @@
   {
     "title": "Play Wordle over SSH",
     "url": "https://github.com/ajeetdsouza/clidle",
-    "description": "Saved web link in the Fun category.",
+    "description": "Command-line Wordle clone that can be played over SSH or locally in a terminal.",
     "category": "Fun",
     "tags": [
       "fun",
@@ -409,7 +409,7 @@
   {
     "title": "Passwords Evolved: Authentication Guidance for the Modern Era",
     "url": "https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/",
-    "description": "Saved web link in the Interesting Reads category.",
+    "description": "Troy Hunt article summarizing modern password and authentication guidance for safer sign-in systems.",
     "category": "Interesting Reads",
     "tags": [
       "interesting-reads",
@@ -435,7 +435,7 @@
   {
     "title": "17 Equations that changed the world",
     "url": "https://www.notion.so/c7e2ec2eae8d4c6899c08cf26aa68217?pvs=21",
-    "description": "Saved web link in the Interesting Reads category.",
+    "description": "Notion page collecting seventeen influential equations and the ideas behind them.",
     "category": "Interesting Reads",
     "tags": [
       "interesting-reads"
@@ -447,7 +447,7 @@
   {
     "title": "No Hello",
     "url": "https://nohello.net/en/",
-    "description": "Saved web link in the Interesting Reads category.",
+    "description": "Short etiquette guide encouraging people to ask their question directly instead of sending only “hello.”",
     "category": "Interesting Reads",
     "tags": [
       "interesting-reads"
@@ -471,7 +471,7 @@
   {
     "title": "The Ovarian Lottery — A Thought Experiment from Warren Buffett",
     "url": "https://www.sloww.co/ovarian-lottery/",
-    "description": "Saved web link in the Interesting Reads category.",
+    "description": "Overview of Warren Buffett’s ovarian lottery thought experiment about luck, fairness, and society.",
     "category": "Interesting Reads",
     "tags": [
       "interesting-reads"
@@ -483,7 +483,7 @@
   {
     "title": "Two days in an underwater cave running out of oxygen",
     "url": "http://www.bbc.com/news/magazine-40558067",
-    "description": "Saved web link in the Interesting Reads category.",
+    "description": "BBC feature recounting a cave-diving survival story after two divers were trapped underwater with dwindling oxygen.",
     "category": "Interesting Reads",
     "tags": [
       "interesting-reads"
@@ -495,7 +495,7 @@
   {
     "title": "Servant leadership: why being a servant leader is worth the work",
     "url": "https://nesslabs.com/servant-leadership",
-    "description": "Saved web link in the Productivity & Leadership category.",
+    "description": "Ness Labs guide to servant leadership and how leaders can support, empower, and unblock teams.",
     "category": "Productivity & Leadership",
     "tags": [
       "productivity-leadership",
@@ -508,7 +508,7 @@
   {
     "title": "Hoodmaps",
     "url": "https://hoodmaps.com/",
-    "description": "Saved web link in the Maps category.",
+    "description": "Crowdsourced neighborhood map labeling city areas with local stereotypes and community-submitted notes.",
     "category": "Maps",
     "tags": [
       "maps"
@@ -520,7 +520,7 @@
   {
     "title": "muted.io – A magical collection of interactive music theory tools & visual references to learn music online for free",
     "url": "https://muted.io/",
-    "description": "Saved web link in the Music & Learning category.",
+    "description": "Interactive music theory tools and visual references for learning chords, scales, rhythm, and instruments.",
     "category": "Music & Learning",
     "tags": [
       "music-learning",
@@ -533,7 +533,7 @@
   {
     "title": "Call My Congress",
     "url": "https://www.callmycongress.com/",
-    "description": "Saved web link in the Civic / Social Impact category.",
+    "description": "Tool for finding congressional representatives and contact information from a U.S. address.",
     "category": "Civic / Social Impact",
     "tags": [
       "civic-social-impact",
@@ -546,7 +546,7 @@
   {
     "title": "#NoEstimates (Allen Holub)",
     "url": "https://www.youtube.com/watch?v=QVBlnCTu9Ms",
-    "description": "Saved web link in the Product & Agile category.",
+    "description": "Allen Holub talk explaining the #NoEstimates perspective on Agile planning and forecasting.",
     "category": "Product & Agile",
     "tags": [
       "product-agile",
@@ -559,7 +559,7 @@
   {
     "title": "Maker's Schedule, Manager's Schedule",
     "url": "http://paulgraham.com/makersschedule.html",
-    "description": "Saved web link in the Productivity & Leadership category.",
+    "description": "Paul Graham essay contrasting maker and manager schedules and why meetings can disrupt creative work.",
     "category": "Productivity & Leadership",
     "tags": [
       "productivity-leadership"
@@ -571,7 +571,7 @@
   {
     "title": "The Best Leaders Are Feedback Magnets",
     "url": "https://review.firstround.com/the-best-leaders-are-feedback-magnets-heres-how-to-become-one",
-    "description": "Saved web link in the Productivity & Leadership category.",
+    "description": "First Round Review article on how leaders can actively seek, receive, and use feedback well.",
     "category": "Productivity & Leadership",
     "tags": [
       "productivity-leadership"
@@ -583,7 +583,7 @@
   {
     "title": "Best websites a programmer should visit",
     "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
-    "description": "Saved web link in the Engineering & Programming category.",
+    "description": "Curated GitHub list of websites, tools, articles, and learning resources for programmers.",
     "category": "Engineering & Programming",
     "tags": [
       "engineering-programming",
@@ -598,7 +598,7 @@
   {
     "title": "Book: Web API Design: The Missing Link",
     "url": "https://pages.apigee.com/rs/351-WXY-166/images/Web-design-the-missing-link-ebook-2016-11.pdf",
-    "description": "Saved web link in the Engineering & Programming category.",
+    "description": "Apigee ebook covering principles and patterns for designing usable web APIs.",
     "category": "Engineering & Programming",
     "tags": [
       "engineering-programming",
@@ -613,7 +613,7 @@
   {
     "title": "Configure two routers to the same network",
     "url": "https://support.bluesound.com/hc/en-us/articles/204524383-Can-I-connect-two-routers-to-the-same-network-with-the-same-network-name-",
-    "description": "Saved web link in the Engineering & Programming category.",
+    "description": "Support article explaining how to use two routers on one network with the same SSID.",
     "category": "Engineering & Programming",
     "tags": [
       "engineering-programming",
@@ -626,7 +626,7 @@
   {
     "title": "Developer’s guide to SEO",
     "url": "https://www.portent.com/blog/seo/developers-seo-guide.htm",
-    "description": "Saved web link in the Engineering & Programming category.",
+    "description": "Developer-focused SEO guide covering technical foundations that affect crawlability and search visibility.",
     "category": "Engineering & Programming",
     "tags": [
       "engineering-programming",
@@ -639,7 +639,7 @@
   {
     "title": "How to do a code review - Google",
     "url": "https://google.github.io/eng-practices/review/reviewer/",
-    "description": "Saved web link in the Engineering & Programming category.",
+    "description": "Google engineering guide for reviewing code effectively, respectfully, and with the right level of rigor.",
     "category": "Engineering & Programming",
     "tags": [
       "engineering-programming",
@@ -652,7 +652,7 @@
   {
     "title": "Oh, shit, git!",
     "url": "http://ohshitgit.com/",
-    "description": "Saved web link in the Engineering & Programming category.",
+    "description": "Plain-language guide to recovering from common Git mistakes and confusing repository states.",
     "category": "Engineering & Programming",
     "tags": [
       "engineering-programming",
@@ -665,7 +665,7 @@
   {
     "title": "Software Development Explained With Cars",
     "url": "https://toggl.com/developer-methods-infographic",
-    "description": "Saved web link in the Engineering & Programming category.",
+    "description": "Infographic explaining software development methods through car-related analogies.",
     "category": "Engineering & Programming",
     "tags": [
       "engineering-programming",
@@ -678,7 +678,7 @@
   {
     "title": "The 12 Factor App",
     "url": "https://12factor.net/",
-    "description": "Saved web link in the Engineering & Programming category.",
+    "description": "Methodology for building portable, scalable, maintainable software-as-a-service applications.",
     "category": "Engineering & Programming",
     "tags": [
       "engineering-programming",
@@ -691,7 +691,7 @@
   {
     "title": "Wat - A lightning talk by Gary Bernhardt from CodeMash 2012",
     "url": "https://www.destroyallsoftware.com/talks/wat",
-    "description": "Saved web link in the Engineering & Programming category.",
+    "description": "Gary Bernhardt lightning talk highlighting surprising behavior in Ruby, JavaScript, and programming languages.",
     "category": "Engineering & Programming",
     "tags": [
       "engineering-programming",
@@ -731,7 +731,7 @@
   {
     "title": "Data Fetching in Single Page Applications",
     "url": "https://martinfowler.com/articles/data-fetch-spa.html",
-    "description": "Saved web link in the Engineering & Programming category.",
+    "description": "Martin Fowler article comparing patterns for data fetching in single-page applications.",
     "category": "Engineering & Programming",
     "tags": [
       "engineering-programming",
@@ -744,7 +744,7 @@
   {
     "title": "React for Interactive Command-Line Apps (Ink)",
     "url": "https://github.com/vadimdemedes/ink",
-    "description": "Saved web link in the Engineering & Programming category.",
+    "description": "React renderer for building interactive command-line applications with components.",
     "category": "Engineering & Programming",
     "tags": [
       "engineering-programming",
@@ -759,7 +759,7 @@
   {
     "title": "Interactive map of the 2017 solar eclipse",
     "url": "https://eclipse2017.nasa.gov/sites/default/files/interactive_map/index.html",
-    "description": "Saved web link in the Science category.",
+    "description": "NASA interactive map for exploring the path and timing of the 2017 total solar eclipse.",
     "category": "Science",
     "tags": [
       "science"
@@ -771,7 +771,7 @@
   {
     "title": "Columbus social ventures",
     "url": "http://socialventurescbus.com/marketplace/",
-    "description": "Saved web link in the Civic / Social Impact category.",
+    "description": "Marketplace and directory for Columbus-area social enterprises and mission-driven organizations.",
     "category": "Civic / Social Impact",
     "tags": [
       "civic-social-impact",
@@ -784,7 +784,7 @@
   {
     "title": "Why city flags may be the worst-designed thing you’ve never noticed – Roman Mars",
     "url": "https://www.youtube.com/watch?v=pnv5iKB2hl4",
-    "description": "Saved web link in the Media & Talks category.",
+    "description": "Roman Mars TED talk on city flag design and why simple, meaningful civic symbols matter.",
     "category": "Media & Talks",
     "tags": [
       "media-talks",
@@ -798,7 +798,7 @@
   {
     "title": "Why incompetent people think they're amazing – David Dunning",
     "url": "https://www.youtube.com/watch?v=pOLmD_WVY-E",
-    "description": "Saved web link in the Media & Talks category.",
+    "description": "David Dunning TED-Ed lesson explaining why people with low competence often overestimate their ability.",
     "category": "Media & Talks",
     "tags": [
       "media-talks",
