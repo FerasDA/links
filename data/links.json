@@ -839,5 +839,20 @@
     "type": "document",
     "added": "2026-08-01",
     "status": "unchecked"
+  },
+  {
+    "title": "MapFrappe Outlines",
+    "url": "https://mapfrappe.com/outlines",
+    "description": "Tool for comparing map outlines and geographic shapes at matching scale.",
+    "category": "Maps",
+    "tags": [
+      "maps",
+      "geography",
+      "outlines",
+      "scale-comparison"
+    ],
+    "type": "tool",
+    "added": "2026-08-26",
+    "status": "unchecked"
   }
 ]
