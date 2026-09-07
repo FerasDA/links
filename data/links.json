@@ -10,7 +10,8 @@
     ],
     "type": "video",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "#NoEstimates … #NoSprints",
@@ -22,7 +23,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "unknown",
+    "last_checked": "2026-09-07",
+    "check_error": "HTTP 403"
   },
   {
     "title": "Story Points Revisited",
@@ -34,7 +37,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Twelve",
@@ -46,7 +50,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Here’s Why Scientists Think You Should be Worried about Artificial Intelligence",
@@ -58,7 +63,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://www.makeuseof.com/tag/heres-scientists-think-worried-artificial-intelligence/"
   },
   {
     "title": "How to raise a moral robot",
@@ -70,7 +77,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://archive2.news.brown.edu/2007-2015/articles/2015/04/malle.html"
   },
   {
     "title": "Risks of Artificial Intelligence",
@@ -82,7 +91,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "unknown",
+    "last_checked": "2026-09-07",
+    "check_error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
   },
   {
     "title": "What if ET is an AI?",
@@ -94,7 +105,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "ComfyUI",
@@ -108,7 +120,9 @@
     ],
     "type": "repo",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://github.com/Comfy-Org/ComfyUI?tab=readme-ov-file"
   },
   {
     "title": "Dad Joke API",
@@ -120,7 +134,8 @@
     ],
     "type": "api",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Trivia API",
@@ -132,7 +147,8 @@
     ],
     "type": "api",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "A checklist of marketing ideas for side projects",
@@ -144,7 +160,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://draft.dev/learn/marketing-checklist"
   },
   {
     "title": "Accounting for Developers 101",
@@ -156,7 +174,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Accounting for Developers 102",
@@ -168,7 +187,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Starting a Business",
@@ -180,7 +200,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "unknown",
+    "last_checked": "2026-09-07",
+    "check_error": "<urlopen error [Errno -2] Name or service not known>"
   },
   {
     "title": "Startup School by YC",
@@ -192,7 +214,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Cleveland is Hyper-Segregated",
@@ -204,7 +227,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://www.clevescene.com/news/new-data-map-reminds-us-cleveland-is-hyper-segregated-18297703/"
   },
   {
     "title": "Cleveland Tech",
@@ -218,7 +243,8 @@
     ],
     "type": "repo",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Data USA",
@@ -230,7 +256,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Gapminder",
@@ -242,7 +269,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "picular.co - Google for colors",
@@ -254,7 +282,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://www.picular.co/"
   },
   {
     "title": "unDraw - Open-source illustrations",
@@ -266,7 +296,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://undraw.co/"
   },
   {
     "title": "Web design in 4 minutes",
@@ -278,7 +310,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Authentication Platform",
@@ -290,7 +323,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "CSE Code-With Engineering Playbook",
@@ -302,7 +336,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Make Bullshit Generator",
@@ -314,7 +349,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Typescript Error Reference",
@@ -326,7 +362,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Google’s AI guru, Ray Kurzweil, predicts humans and machines will merge within 20 years",
@@ -339,7 +376,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "http://thenextweb.com/news/googles-ai-guru-predicts-humans-and-machines-will-merge-within-20-years"
   },
   {
     "title": "Listen to Wikipedia being updated",
@@ -351,7 +390,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://listen.hatnote.com/"
   },
   {
     "title": "Play Wordle over SSH",
@@ -365,7 +406,8 @@
     ],
     "type": "repo",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "2018 Golden Kitty Awards",
@@ -378,7 +420,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "unknown",
+    "last_checked": "2026-09-07",
+    "check_error": "HTTP 403"
   },
   {
     "title": "FaceID, TouchID, pins, no pins",
@@ -391,7 +435,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Internet Trends 2017",
@@ -404,7 +449,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://www.kleinerperkins.com/internet-trends"
   },
   {
     "title": "Passwords Evolved: Authentication Guidance for the Modern Era",
@@ -417,7 +464,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Thoughts on Flash (2010)",
@@ -430,7 +478,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "broken",
+    "last_checked": "2026-09-07",
+    "check_error": "HTTP 404"
   },
   {
     "title": "17 Equations that changed the world",
@@ -442,7 +492,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "broken",
+    "last_checked": "2026-09-07",
+    "check_error": "HTTP 404"
   },
   {
     "title": "No Hello",
@@ -454,7 +506,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "The days are long but the decades are short",
@@ -466,7 +519,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short"
   },
   {
     "title": "The Ovarian Lottery — A Thought Experiment from Warren Buffett",
@@ -478,7 +533,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Two days in an underwater cave running out of oxygen",
@@ -490,7 +546,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://www.bbc.com/news/magazine-40558067"
   },
   {
     "title": "Servant leadership: why being a servant leader is worth the work",
@@ -503,7 +561,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Hoodmaps",
@@ -515,7 +574,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://hoodmaps.com/new-york-city-neighborhood-map?ask_gps=true"
   },
   {
     "title": "muted.io – A magical collection of interactive music theory tools & visual references to learn music online for free",
@@ -528,7 +589,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Call My Congress",
@@ -541,7 +603,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "unknown",
+    "last_checked": "2026-09-07",
+    "check_error": "<urlopen error [Errno -2] Name or service not known>"
   },
   {
     "title": "#NoEstimates (Allen Holub)",
@@ -554,7 +618,8 @@
     ],
     "type": "video",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Maker's Schedule, Manager's Schedule",
@@ -566,7 +631,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://paulgraham.com/makersschedule.html"
   },
   {
     "title": "The Best Leaders Are Feedback Magnets",
@@ -578,7 +645,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://review.firstround.com/the-best-leaders-are-feedback-magnets-heres-how-to-become-one/"
   },
   {
     "title": "Best websites a programmer should visit",
@@ -593,7 +662,8 @@
     ],
     "type": "repo",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Book: Web API Design: The Missing Link",
@@ -608,7 +678,9 @@
     ],
     "type": "document",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "broken",
+    "last_checked": "2026-09-07",
+    "check_error": "HTTP 404"
   },
   {
     "title": "Configure two routers to the same network",
@@ -621,7 +693,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "unknown",
+    "last_checked": "2026-09-07",
+    "check_error": "HTTP 403"
   },
   {
     "title": "Developer’s guide to SEO",
@@ -634,7 +708,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://portent.com/blog/seo/developers-seo-guide.htm"
   },
   {
     "title": "How to do a code review - Google",
@@ -647,7 +723,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Oh, shit, git!",
@@ -660,7 +737,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://ohshitgit.com/"
   },
   {
     "title": "Software Development Explained With Cars",
@@ -673,7 +752,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://toggl.com/blog/developer-methods-infographic"
   },
   {
     "title": "The 12 Factor App",
@@ -686,7 +767,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Wat - A lightning talk by Gary Bernhardt from CodeMash 2012",
@@ -699,7 +781,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Show and Tell",
@@ -713,7 +796,8 @@
     ],
     "type": "video",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "speaking.io",
@@ -726,7 +810,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://speaking.io/"
   },
   {
     "title": "Data Fetching in Single Page Applications",
@@ -739,7 +825,8 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "React for Interactive Command-Line Apps (Ink)",
@@ -754,7 +841,8 @@
     ],
     "type": "repo",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Interactive map of the 2017 solar eclipse",
@@ -766,7 +854,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "redirected",
+    "last_checked": "2026-09-07",
+    "redirect_url": "https://science.nasa.gov/eclipse/"
   },
   {
     "title": "Columbus social ventures",
@@ -779,7 +869,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "broken",
+    "last_checked": "2026-09-07",
+    "check_error": "HTTP 404"
   },
   {
     "title": "Why city flags may be the worst-designed thing you’ve never noticed – Roman Mars",
@@ -793,7 +885,8 @@
     ],
     "type": "video",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Why incompetent people think they're amazing – David Dunning",
@@ -807,7 +900,8 @@
     ],
     "type": "video",
     "added": "2026-06-06",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "pASSWORD tYPOS and How to Correct Them Securely",
@@ -823,7 +917,8 @@
     ],
     "type": "document",
     "added": "2026-06-07",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "Every formula in the script, and when you'd actually reach for it.",
@@ -838,7 +933,8 @@
     ],
     "type": "document",
     "added": "2026-08-01",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   },
   {
     "title": "MapFrappe Outlines",
@@ -853,6 +949,7 @@
     ],
     "type": "tool",
     "added": "2026-08-26",
-    "status": "unchecked"
+    "status": "ok",
+    "last_checked": "2026-09-07"
   }
 ]
