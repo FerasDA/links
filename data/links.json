@@ -11,7 +11,7 @@
     "type": "video",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "#NoEstimates … #NoSprints",
@@ -24,7 +24,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "unknown",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "check_error": "HTTP 403"
   },
   {
@@ -37,8 +37,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "ok",
-    "last_checked": "2026-11-02"
+    "status": "unknown",
+    "last_checked": "2026-11-09",
+    "check_error": "<urlopen error timed out>"
   },
   {
     "title": "Twelve",
@@ -50,8 +51,9 @@
     ],
     "type": "article",
     "added": "2026-06-06",
-    "status": "ok",
-    "last_checked": "2026-11-02"
+    "status": "unknown",
+    "last_checked": "2026-11-09",
+    "check_error": "<urlopen error timed out>"
   },
   {
     "title": "Here’s Why Scientists Think You Should be Worried about Artificial Intelligence",
@@ -64,7 +66,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://www.makeuseof.com/tag/heres-scientists-think-worried-artificial-intelligence/"
   },
   {
@@ -78,7 +80,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://archive2.news.brown.edu/2007-2015/articles/2015/04/malle.html"
   },
   {
@@ -92,8 +94,8 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "unknown",
-    "last_checked": "2026-11-02",
-    "check_error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1144)>"
+    "last_checked": "2026-11-09",
+    "check_error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1147)>"
   },
   {
     "title": "What if ET is an AI?",
@@ -106,7 +108,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "ComfyUI",
@@ -121,7 +123,7 @@
     "type": "repo",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://github.com/Comfy-Org/ComfyUI?tab=readme-ov-file"
   },
   {
@@ -135,7 +137,7 @@
     "type": "api",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Trivia API",
@@ -148,7 +150,7 @@
     "type": "api",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "A checklist of marketing ideas for side projects",
@@ -161,7 +163,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://draft.dev/learn/marketing-checklist"
   },
   {
@@ -175,7 +177,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Accounting for Developers 102",
@@ -188,7 +190,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Starting a Business",
@@ -201,7 +203,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "unknown",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "check_error": "<urlopen error [Errno -2] Name or service not known>"
   },
   {
@@ -215,7 +217,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Cleveland is Hyper-Segregated",
@@ -228,7 +230,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://www.clevescene.com/news/new-data-map-reminds-us-cleveland-is-hyper-segregated-18297703/"
   },
   {
@@ -244,7 +246,7 @@
     "type": "repo",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Data USA",
@@ -257,7 +259,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Gapminder",
@@ -270,7 +272,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "picular.co - Google for colors",
@@ -283,7 +285,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://www.picular.co/"
   },
   {
@@ -297,7 +299,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://undraw.co/"
   },
   {
@@ -311,7 +313,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Authentication Platform",
@@ -324,7 +326,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "CSE Code-With Engineering Playbook",
@@ -337,7 +339,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Make Bullshit Generator",
@@ -350,7 +352,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Typescript Error Reference",
@@ -363,7 +365,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Google’s AI guru, Ray Kurzweil, predicts humans and machines will merge within 20 years",
@@ -377,7 +379,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "http://thenextweb.com/news/googles-ai-guru-predicts-humans-and-machines-will-merge-within-20-years"
   },
   {
@@ -391,7 +393,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://listen.hatnote.com/"
   },
   {
@@ -407,7 +409,7 @@
     "type": "repo",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "2018 Golden Kitty Awards",
@@ -421,7 +423,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "unknown",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "check_error": "HTTP 403"
   },
   {
@@ -436,7 +438,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Internet Trends 2017",
@@ -450,7 +452,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://www.kleinerperkins.com/internet-trends"
   },
   {
@@ -465,7 +467,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Thoughts on Flash (2010)",
@@ -479,7 +481,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "broken",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "check_error": "HTTP 404"
   },
   {
@@ -493,7 +495,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "broken",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "check_error": "HTTP 404"
   },
   {
@@ -507,7 +509,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "The days are long but the decades are short",
@@ -520,7 +522,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short"
   },
   {
@@ -534,7 +536,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Two days in an underwater cave running out of oxygen",
@@ -547,7 +549,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://www.bbc.com/news/magazine-40558067"
   },
   {
@@ -562,7 +564,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Hoodmaps",
@@ -575,7 +577,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://hoodmaps.com/new-york-city-neighborhood-map?ask_gps=true"
   },
   {
@@ -590,7 +592,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Call My Congress",
@@ -604,7 +606,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "unknown",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "check_error": "<urlopen error [Errno -2] Name or service not known>"
   },
   {
@@ -619,7 +621,7 @@
     "type": "video",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Maker's Schedule, Manager's Schedule",
@@ -632,7 +634,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://paulgraham.com/makersschedule.html"
   },
   {
@@ -646,7 +648,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://review.firstround.com/the-best-leaders-are-feedback-magnets-heres-how-to-become-one/"
   },
   {
@@ -663,7 +665,7 @@
     "type": "repo",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Book: Web API Design: The Missing Link",
@@ -679,7 +681,7 @@
     "type": "document",
     "added": "2026-06-06",
     "status": "broken",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "check_error": "HTTP 404"
   },
   {
@@ -694,7 +696,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "unknown",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "check_error": "HTTP 403"
   },
   {
@@ -709,7 +711,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://portent.com/blog/seo/developers-seo-guide.htm"
   },
   {
@@ -724,7 +726,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Oh, shit, git!",
@@ -738,7 +740,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://ohshitgit.com/"
   },
   {
@@ -753,7 +755,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://toggl.com/blog/developer-methods-infographic"
   },
   {
@@ -768,7 +770,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Wat - A lightning talk by Gary Bernhardt from CodeMash 2012",
@@ -782,7 +784,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Show and Tell",
@@ -797,7 +799,7 @@
     "type": "video",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "speaking.io",
@@ -811,7 +813,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://speaking.io/"
   },
   {
@@ -826,7 +828,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "React for Interactive Command-Line Apps (Ink)",
@@ -842,7 +844,7 @@
     "type": "repo",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Interactive map of the 2017 solar eclipse",
@@ -855,7 +857,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "redirected",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "redirect_url": "https://science.nasa.gov/eclipse/"
   },
   {
@@ -870,7 +872,7 @@
     "type": "article",
     "added": "2026-06-06",
     "status": "broken",
-    "last_checked": "2026-11-02",
+    "last_checked": "2026-11-09",
     "check_error": "HTTP 404"
   },
   {
@@ -886,7 +888,7 @@
     "type": "video",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Why incompetent people think they're amazing – David Dunning",
@@ -901,7 +903,7 @@
     "type": "video",
     "added": "2026-06-06",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "pASSWORD tYPOS and How to Correct Them Securely",
@@ -918,7 +920,7 @@
     "type": "document",
     "added": "2026-06-07",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "Every formula in the script, and when you'd actually reach for it.",
@@ -934,7 +936,7 @@
     "type": "document",
     "added": "2026-08-01",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   },
   {
     "title": "MapFrappe Outlines",
@@ -950,6 +952,6 @@
     "type": "tool",
     "added": "2026-08-26",
     "status": "ok",
-    "last_checked": "2026-11-02"
+    "last_checked": "2026-11-09"
   }
 ]
